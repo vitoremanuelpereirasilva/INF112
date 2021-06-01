@@ -1,0 +1,9 @@
+Nro.    Funcionario   Gasto   %
+1 julio R$3003.72 nan%
+2 miguel R$1245.98 nan%
+3 lidiana R$1234.64 nan%
+4 maria R$912.57 nan%
+5 caio R$9874.58 nan%
+6 paula R$789.45 nan%
+Gasto mensal total: R$0
+Gasto medio por funcionario: R$0
